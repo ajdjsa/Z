@@ -1,0 +1,6 @@
+parent_drug,metabolite_name,evidence_status,source_doi_or_url,notes
+DEMO_A,marker_alpha,verified,DEMONSTRATION_ONLY,Fictional markers for testing code only
+DEMO_A,marker_shared,verified,DEMONSTRATION_ONLY,Fictional markers for testing code only
+DEMO_B,marker_beta,verified,DEMONSTRATION_ONLY,Fictional markers for testing code only
+DEMO_B,marker_shared,verified,DEMONSTRATION_ONLY,Fictional markers for testing code only
+DEMO_C,marker_gamma,verified,DEMONSTRATION_ONLY,Fictional markers for testing code only

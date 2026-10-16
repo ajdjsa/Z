@@ -1,0 +1,2 @@
+parent_drug,metabolite_name,evidence_status,source_doi_or_url,notes
+ADB-PINACA,REPLACE_WITH_EXACT_PUBLISHED_METABOLITE_NAME,unverified,,Example placeholder; not used by model
